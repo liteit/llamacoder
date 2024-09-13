@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import PlausibleProvider from "next-plausible";
 import "./globals.css";
 
-let title = "Llama Coder – AI Code Generator";
+let title = "Llama Coder AI Code Generator";
 let description = "Generate your next app with Llama 3.1 405B";
 let url = "https://llamacoder.io/";
 let ogimage = "https://llamacoder.io/og-image.png";
